@@ -6,6 +6,7 @@ Odoo offers a choice of more than thousand modules, Odoo is available in the clo
 **Reuqirents**<br>
 Odoo installer<br>
 Java 8<br>
+Library for xmlrpc 3.1.3<br>
 <br>
 **Step 1: Download and install odoo installer**<br>
 You can found Odoo installer from given link. <br>
@@ -42,4 +43,5 @@ Fetch all databases<br>
 --------------
 eliteevince
 </code></pre>
-<br><br>
+<br>
+**Congratulations... You are sucessfully integrated java with odoo using xmlrpc**
