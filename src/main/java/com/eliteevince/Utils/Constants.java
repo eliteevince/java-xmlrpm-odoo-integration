@@ -14,9 +14,9 @@ public class Constants {
     public static final String HOST = "localhost";
     public static final String PORT = "8069";
     public static final String URL = PROTOCOL + "://" + HOST + ":" + PORT;
-    public static final String DB = "eliteevince";
-    public static final String USERNAME = "meet@eliteevince.com";
-    public static final String PASSWORD = "JavaDeveloper123";
+    public static final String DB = "";
+    public static final String USERNAME = "";
+    public static final String PASSWORD = "";
     
     
     public static final String COMMON_URL = "/xmlrpc/2/common";
